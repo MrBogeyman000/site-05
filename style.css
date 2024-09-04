@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-size: 19px;
+    background-color: rgb(80, 134, 196);
+    color: rgb(126, 70, 179);
+    text-decoration: none;
+}
+
+img{
+    border: 8px solid rgb(124, 81, 194);
+    height: 350px;
+}
+
+div img{
+    width: 300px;
+    height: 300px;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+div a{
+    text-decoration: none;
+}
